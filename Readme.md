@@ -1,7 +1,7 @@
-= Description
+# Description
 Basic ESP32 BLE Service with custom values
 
-= Config
+# Config
 Service 00000001-5239-4069-806d-7e5c97393755
 
 Characteristic1 00000002-5239-4069-806d-7e5c97393755
@@ -14,7 +14,7 @@ Characteristic3 00000004-5239-4069-806d-7e5c97393755
 - String for testing sending of values
 
 
-= Links
+# Links
 https://github.com/espressif/arduino-esp32/blob/master/libraries/BLE/examples/BLE_notify/BLE_notify.ino
 https://www.bluetooth.com/specifications/assigned-numbers/
 https://www.novelbits.io/bluetooth-gatt-services-characteristics/
