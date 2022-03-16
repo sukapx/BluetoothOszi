@@ -15,7 +15,7 @@ Characteristic3 00000004-5239-4069-806d-7e5c97393755
 
 
 # Links
-https://github.com/espressif/arduino-esp32/blob/master/libraries/BLE/examples/BLE_notify/BLE_notify.ino
-https://www.bluetooth.com/specifications/assigned-numbers/
-https://www.novelbits.io/bluetooth-gatt-services-characteristics/
-https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp&hl=de&gl=US
+- https://github.com/espressif/arduino-esp32/blob/master/libraries/BLE/examples/BLE_notify/BLE_notify.ino
+- https://www.bluetooth.com/specifications/assigned-numbers/
+- https://www.novelbits.io/bluetooth-gatt-services-characteristics/
+- https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp&hl=de&gl=US
